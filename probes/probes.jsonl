@@ -1,0 +1,14 @@
+{"input": "0", "expect": 0, "raised": false, "task": "binary", "lang": "php"}
+{"input": "1", "expect": 1, "raised": false, "task": "binary", "lang": "php"}
+{"input": "10", "expect": 2, "raised": false, "task": "binary", "lang": "php"}
+{"input": "11", "expect": 3, "raised": false, "task": "binary", "lang": "php"}
+{"input": "100", "expect": 4, "raised": false, "task": "binary", "lang": "php"}
+{"input": "1001", "expect": 9, "raised": false, "task": "binary", "lang": "php"}
+{"input": "10000000", "expect": 128, "raised": false, "task": "binary", "lang": "php"}
+{"input": "100111011", "expect": 315, "raised": false, "task": "binary", "lang": "php"}
+{"input": "1100100000", "expect": 800, "raised": false, "task": "binary", "lang": "php"}
+{"input": "1111100111", "expect": 999, "raised": false, "task": "binary", "lang": "php"}
+{"input": "111111111111111111111111111111111111111111111111111111111111111", "expect": 9223372036854775807, "raised": false, "task": "binary", "lang": "php"}
+{"input": "01", "expect": 1, "raised": false, "task": "binary", "lang": "php"}
+{"input": "0010", "expect": 2, "raised": false, "task": "binary", "lang": "php"}
+{"input": "00011", "expect": 3, "raised": false, "task": "binary", "lang": "php"}
